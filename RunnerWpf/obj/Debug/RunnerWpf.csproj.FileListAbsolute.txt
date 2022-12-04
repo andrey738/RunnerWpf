@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\bin\Debug\RunnerWpf.exe.config
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\bin\Debug\RunnerWpf.exe
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\bin\Debug\RunnerWpf.pdb
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\RunnerWpf.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\App.g.cs
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\RunnerWpf_MarkupCompile.cache
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\RunnerWpf_MarkupCompile.lref
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\RunnerWpf.g.resources
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\RunnerWpf.Properties.Resources.resources
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\RunnerWpf.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\RunnerWpf.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\RunnerWpf.exe
+C:\Users\User\source\repos\RunnerWpf\RunnerWpf\obj\Debug\RunnerWpf.pdb
